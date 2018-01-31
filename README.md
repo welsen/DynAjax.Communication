@@ -1,5 +1,4 @@
 # DynAjax.Communication
 
-Moved to [private] git server.
+Moved to [private](https://git.flnf.hu) git server.
 
-[private] https://git.flnf.hu
